@@ -1,4 +1,4 @@
-# utkarsh
+# Utkarsh- An Android app to Connect Donors and NGO's
 
 A new Flutter project.
 
